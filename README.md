@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Nour Nagm aka **VadonHipra** on some platforms. I am a fresh graduate, majored in **Computer Engineering**, and I am looking for job.
+I'm Nour Nagm aka **VadonHipra** on some platforms. I am a fresh graduate, majored in **Computer Engineering**, and I am looking for job.
 
 
 - 🌱 I’m currently learning/reading topics in computer science, web development with **.NET Core technologies**, and software engineering.
