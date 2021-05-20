@@ -4,7 +4,8 @@ I'm Nour Nagm aka **VadonHipra** on some platforms. I am a fresh graduate, major
 - 🌱 I’m currently learning/reading topics in computer science, web development with **.NET Core technologies**, and software engineering.
 - 📫 How to reach me: [LinkedIn](http://linkedin.com/in/nour-nagm/) for employment purposes, [Gmail](mailto:nournagm97@gmail.com) if you want to ask me anything.
 
-![me](./images/me2020-200200.png)
+<img align = "right" src = "./images/me2020-200200.png">
+
 
 
 <!--
