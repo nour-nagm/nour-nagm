@@ -1,9 +1,11 @@
 # Hi there 👋
 I'm Nour Nagm aka **VadonHipra** on some platforms. I am a fresh graduate, majored in **Computer Engineering**, and I am looking for job.
 
-
 - 🌱 I’m currently learning/reading topics in computer science, web development with **.NET Core technologies**, and software engineering.
 - 📫 How to reach me: [LinkedIn](http://linkedin.com/in/nour-nagm/) for employment purposes, [Gmail](mailto:nournagm97@gmail.com) if you want to ask me anything.
+
+![me](./images/me2020-200200.png)
+
 
 <!--
 **nour-nagm/nour-nagm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
