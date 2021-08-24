@@ -8,7 +8,7 @@ I'm Nour Nagm aka **VadonHipra** on some platforms. I am a fresh graduate, major
 - 🌱 I'm currently learning/reading topics in computer science, software engineering, and web development with **.NET Core technologies** and **React** ⚛️.
 - 🎮 I'm interested in game development, I play with **Unity** in my free time.  
 
-
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-nagm&theme=midnight-purple&layout=compact)](https://github.com/nour-nagm?tab=repositories)
 
 <!--
 **nour-nagm/nour-nagm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
