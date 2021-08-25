@@ -1,4 +1,4 @@
-# Hi there 👋 <img align = "right" src = "./images/me2020-200200.png">
+# Hi there 👋 <a href="https://www.linkedin.com/in/nour-nagm/"><img align = "right" src = "./images/me2020-200200.png"></a>
 
 [![Gmail Badge](https://img.shields.io/badge/nournagm97@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:nournagm97@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Nour%20Nagm-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nour-nagm/)
