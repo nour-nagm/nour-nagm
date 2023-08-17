@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/nournagm97@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:nournagm97@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Nour%20Nagm-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nour-nagm/)
 
-I'm Nour Nagm aka **VadonHipra** on some platforms. I am a fresh graduate, majored in **Computer Engineering**, and I am looking for job.
+My name is Nour Nagm, and I am a **Computer Engineering** graduate.
 
 - 🌱 I'm currently learning/reading topics in computer science, software engineering, and web development with **.NET Core technologies** and **React** ⚛️.
 - 🎮 I'm interested in game development, I play with **Unity** in my free time.  
